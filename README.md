@@ -1,1 +1,1 @@
-# THY H NGUYEN_AND_BRYAN D EPPERSON_PROJECT
+# Author: Thy (Molena) Hoang-Xuan Nguyen
