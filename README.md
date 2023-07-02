@@ -1,3 +1,3 @@
-# Leader: Thy (Molena) Hoang-Xuan Nguyen
+# Leader: T. H. Molena
 
-Author: Thy (Molena) Hoang-Xuan Nguyen and Bryan Epperson
+Author: T. H. Molena and Bryan Epperson
